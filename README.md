@@ -16,4 +16,4 @@ how to play!
 >open index.html file
 >choose your symbol (X/O)
 >START PLAYING 
->START 
+>START
