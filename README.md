@@ -1,3 +1,4 @@
+
 # tic_tac_toe
 TIC_TAC_TOE game 
 a simple implementation of the classic tic tac toe game buit with html css and javascript
@@ -17,3 +18,7 @@ how to play!
 >choose your symbol (X/O)
 >START PLAYING 
 >START
+
+
+have a look to this and enjoy:
+>https://mehakanthwal.github.io/tic_tac_toe/
